@@ -1,9 +1,11 @@
 # Luogu-Ac-Difficulties
-统计你在洛谷通过的题目难度个数，并按照难度顺序输出详细题目信息（入门难度、普及- 只统计个数不输出明细）。
+统计你在洛谷通过的题目难度个数，并按照难度顺序输出详细题目信息。
 
 **请不要滥用爬虫，以免浪费洛谷流量。若被封 IP，后果自负。**
 
 **请正确选择您 Python 语言版本对应程序运行。Python 2 用户请使用 main.py，Python 3 用户请使用 main3.py**
+
+> main.py有入门和普及-的统计,main3.py来不及改啦
 
 ## 依赖的库：
 + requests
@@ -27,4 +29,4 @@ python main(3).py
 **注意：如果获取对象开启了完全隐私保护，此脚本无法正常工作。**
 
 ## Badges
-可以配合[该项目](https://github.com/Anguei/Luogu-Difficulties-Badge-Generator)生成 badges 代码
+可以配合[该项目](https://github.com/yuzhechuan/Luogu-Difficulties-Badge-Generator)生成 badges 代码
